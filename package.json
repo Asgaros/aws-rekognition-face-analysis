@@ -1,0 +1,29 @@
+{
+  "name": "aws-rekognition-face-analysis",
+  "version": "1.0.0",
+  "description": "A simple Node.js application to analyze faces within an image using AWS Rekognition.",
+  "main": "detect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asgaros/aws-rekognition-face-analysis.git"
+  },
+  "keywords": [
+    "nodejs",
+    "aws",
+    "rekognition",
+    "aws-rekognition",
+    "node-js"
+  ],
+  "author": "Thomas Belser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asgaros/aws-rekognition-face-analysis/issues"
+  },
+  "homepage": "https://github.com/Asgaros/aws-rekognition-face-analysis",
+  "dependencies": {
+    "aws-sdk": "^2.1452.0"
+  }
+}
